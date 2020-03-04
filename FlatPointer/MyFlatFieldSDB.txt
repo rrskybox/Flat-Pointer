@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE TheSkyDatabase>
+<TheSkyDatabaseHeader version="1.00">
+    <identifier>My Flat Field</identifier>
+    <sdbDescription>Flat Field Target
+</sdbDescription>
+    <searchPrefix></searchPrefix>
+    <specialSDB>0</specialSDB>
+    <plotObjects>1</plotObjects>
+    <plotLabels>1</plotLabels>
+    <plotOrder>2</plotOrder>
+    <searchable>1</searchable>
+    <clickIdentify>1</clickIdentify>
+    <epoch>        2000.0</epoch>
+    <referenceFrame>1</referenceFrame>
+    <crossReferenceType>0</crossReferenceType>
+    <defaultMaxFOV>      360.0000</defaultMaxFOV>
+    <defaultObjectType index="55" description="Reference Point"/>
+    <labelOrSearch colBeg="1" colEnd="20"/>
+    <raHours colBeg="33" colEnd="40"/>
+    <decDegrees colBeg="43" colEnd="50"/>
+    <objectType colBeg="53" colEnd="72"/>
+    <maximumFOV colBeg="99" colEnd="106"/>
+    <minimumFOV colBeg="109" colEnd="116"/>
+    <sampleColumnHeader>
+</sampleColumnHeader>
+</TheSkyDatabaseHeader>
