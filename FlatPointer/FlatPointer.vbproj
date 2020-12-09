@@ -15,7 +15,7 @@
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <TargetFrameworkProfile />
     <PublishUrl>publish\</PublishUrl>
-    <Install>false</Install>
+    <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
     <UpdateMode>Foreground</UpdateMode>
@@ -25,9 +25,9 @@
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <ProductName>Flat Pointer</ProductName>
-    <PublisherName>TSXToolkit</PublisherName>
-    <SuiteName>TSXToolkit</SuiteName>
-    <ApplicationRevision>11</ApplicationRevision>
+    <PublisherName>TSXToolKit</PublisherName>
+    <SuiteName>TSXToolKit</SuiteName>
+    <ApplicationRevision>14</ApplicationRevision>
     <ApplicationVersion>1.2.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
